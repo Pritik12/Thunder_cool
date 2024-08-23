@@ -1,0 +1,21 @@
+[
+    {
+        "image_gif":"assets/welcome.gif",
+        "img1":"assets/carousel1.jpg",
+        "img2":"assets/carousel2.jpg",
+        "img3":"assets/carousel3.jpg",
+        "wine1":"assets/redwine.jpg",
+        "text1":"Red Wine",
+        "wine2":"assets/rosewine.jpg",
+        "text2":"Rose Wine",
+        "wine3":"assets/whitewine.jpg",
+        "text3":"White Wine",
+        "wine4":"assets/grapeswine.jpg",
+        "text4":"Grapes Wine",
+     
+        "wine6":"assets/combo.jpg",
+        "text6":"Combo",
+        "wine7":"assets/wine2010.jpg",
+        "text7":"Reserve 2010"
+    }
+]
